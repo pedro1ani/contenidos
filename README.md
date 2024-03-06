@@ -13,6 +13,13 @@
    git stash pop # Regresa los cambios hechos por ti al working directory.
    ```
 
+2. ¿Qué significa que un contenido sea _bonus_ ?
+
+    Significa que este no será un contenido obligatorio del curso, pero para quienes quieren aprender un poco más, tengan la opción de aprender algo más.
+
+
+   
+
 
 ### Desglose contenidos
 
