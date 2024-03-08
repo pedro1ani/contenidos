@@ -48,3 +48,7 @@ __pycache__/
 # (Fuente: https://hardzone.es/2015/07/28/osx-ficheros-ds_store-como-eliminar-y-evitar-que-aparezcan/)
 *.DS_STORE
 
+# --------------------------------------------
+# Otros
+# --------------------------------------------
+*SOLUCION*
